@@ -29,7 +29,7 @@ url: "https://ahkoeppel.github.io/" # the base hostname & protocol for your site
 github_username:  ahkoeppel
 
 # Build settings
-theme: minima
+remote_theme: academicpages
 plugins:
   - jekyll-feed
 
