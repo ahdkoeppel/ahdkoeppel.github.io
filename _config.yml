@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ari Koeppel"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Ari Koeppel"
 description              : &description "Planetary Surface-Atmosphere Interactions Scientist"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ari Koeppel"
   avatar           : "bio-photo.png"
-  bio              : "I am a Postdoctoral Researcher studying planetary surface and atmospheric processes using remote sensing, modelling, and fieldwork."
+  bio              : "Postdoctoral Researcher - Planetary Science"
   location         : "Flagstaff, AZ/Rockville, MD"
   employer         : "Northern Arizona University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
