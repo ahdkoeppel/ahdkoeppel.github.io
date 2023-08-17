@@ -1,6 +1,6 @@
 ---
 title: "Mars Surface-Atmosphere Interactions"
-excerpt: "<img src="/images/thermalmodel6-28-1.png" width="450"/>"
+excerpt: "<br/><img src='/images/thermalmodel6-28-1.png' width='450'/>"
 collection: portfolio
 ---
 
