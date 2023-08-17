@@ -1,7 +1,5 @@
 ---
 title: "Arabia Terra Layers"
-excerpt: "<br/><img src='/images/kaporo_spectra2.jpg'>"
+excerpt: "Using the best available orbital datasets, we wre able to uncover amazing new details about an enigmatic set of materials on the surface of Mars. <br/><img src='/images/4.png'>"
 collection: portfolio
 ---
-
-Annex et al., 2023 — Koeppel et al., 2021 — Lunar and Planetary Science Conference 2020 (Cancelled due to COVID-19) — Ninth International Conference on Mars — American Geophysical Union 2020 — American Geophysical Union 2020 #2
