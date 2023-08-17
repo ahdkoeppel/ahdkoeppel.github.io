@@ -1,6 +1,6 @@
 ---
 title: "Arabia Terra Layers"
-excerpt: "<img src='/images/4.png' width="450"/>"
+excerpt: "<img src='/images/4.png' width='450'/>"
 collection: portfolio
 ---
 

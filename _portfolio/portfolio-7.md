@@ -1,6 +1,6 @@
 ---
 title: "Supernova Remnant Astronomy"
-excerpt: "<img src="/images/kitt-peak.jpg" width="450"/>"
+excerpt: "<img src="/images/kitt-peak.jpg" width='450'/>"
 collection: portfolio
 ---
 
