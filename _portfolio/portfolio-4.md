@@ -1,7 +1,6 @@
 ---
 title: "Mars Regolith Life Detection"
-excerpt: "<br/><img src='/images/pollen.jpg'>"
+excerpt: "From 2019-2021, we conducted a series of microbial detection experiments in jars filled with Mars regolith analog material.<br/><img src='/images/pollen.jpg'>"
 collection: portfolio
 ---
 
-Mars Extant Life: What’s Next? Conference Report — “Mars Jars” Project — AZ AstroBio Symposium 2020

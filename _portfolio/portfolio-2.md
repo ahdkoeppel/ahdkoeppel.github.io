@@ -1,7 +1,5 @@
 ---
-title: "Linking thermophysics from Earth to Mars"
-excerpt: "<br/><img src='/images/sunset_uavnightir_v2.png'>"
+title: "Thermophysical Field Experiements"
+excerpt: "From 2019-2023 under finding from the NASA PSTAR and FINESST programs, we conducted detailed surface energy balance measurements and _in situ_ measurements in the U.S. Southwest, Kilauea Volcano in Hawai'i, and Breiðamerkurjökull in Iceland. <br/><img src='/images/9481_planetaryscience_20210513.png'>"
 collection: portfolio
 ---
-
-American Geophysical Union 2020 — American Geophysical Union 2021 — Geological Society of America 2022 — LPSC 2023

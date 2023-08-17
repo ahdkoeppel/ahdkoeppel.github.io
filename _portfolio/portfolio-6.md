@@ -1,7 +1,5 @@
 ---
 title: "Gale Crater Mapping"
-excerpt: "<br/><img src='/images/MAP_FINAL.PNG'>"
+excerpt: "To assist with the Curiosity rover team's future science planning, I mapped out a region of Mt. Sharp with some stunning discuveries.<br/><img src='/images/MAP_FINAL.PNG'>"
 collection: portfolio
 ---
-
-Planetary Geologic Mappers Meeting 2019
