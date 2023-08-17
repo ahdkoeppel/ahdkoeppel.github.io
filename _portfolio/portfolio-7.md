@@ -1,6 +1,6 @@
 ---
 title: "Supernova Remnants"
-excerpt: "1<br/><img src='/images/kitt-peak.jpg'>"
+excerpt: "<br/><img src='/images/kitt-peak.jpg'>"
 collection: portfolio
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Mars Impact Melting"
-excerpt: "1<br/><img src='/images/impact-cartoon3.jpg'>"
+excerpt: "<br/><img src='/images/impact-cartoon3.jpg'>"
 collection: portfolio
 ---
 

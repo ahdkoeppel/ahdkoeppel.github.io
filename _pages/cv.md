@@ -29,6 +29,7 @@ redirect_from:
   * **Field Qualifications**
       * Wilderness Emergency Medical Technician/Wilderness First Responder, National Outdoor Leadership School (NOLS)
       * Swiftwater Rescue Technician
+      * AIARE 1 Avalanche Awareness
       * FAA Part 107 Licensed Small UAS Pilot – FAA 
 
 ### Publications
