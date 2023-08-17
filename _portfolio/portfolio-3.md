@@ -1,6 +1,6 @@
 ---
 title: "Arabia Terra Layers"
-excerpt: "1<br/><img src='/images/kaporo_spectra2.jpg'>"
+excerpt: "<br/><img src='/images/kaporo_spectra2.jpg'>"
 collection: portfolio
 ---
 

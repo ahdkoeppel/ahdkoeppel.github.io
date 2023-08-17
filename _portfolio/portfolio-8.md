@@ -1,6 +1,6 @@
 ---
 title: "Desert Ecology"
-excerpt: "1<br/><img src='/images/10392322_10205093499198156_3910015792943472910_n.jpg'>"
+excerpt: "<br/><img src='/images/10392322_10205093499198156_3910015792943472910_n.jpg'>"
 collection: portfolio
 ---
 

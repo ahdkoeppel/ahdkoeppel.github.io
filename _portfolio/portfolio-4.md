@@ -1,6 +1,6 @@
 ---
 title: "Mars Regolith Life Detection"
-excerpt: "1<br/><img src='/images/pollen.jpg'>"
+excerpt: "<br/><img src='/images/pollen.jpg'>"
 collection: portfolio
 ---
 

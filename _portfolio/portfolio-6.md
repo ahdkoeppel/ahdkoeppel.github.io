@@ -1,6 +1,6 @@
 ---
 title: "Gale Crater Mapping"
-excerpt: "1<br/><img src='/images/MAP_FINAL.PNG'>"
+excerpt: "<br/><img src='/images/MAP_FINAL.PNG'>"
 collection: portfolio
 ---
 
