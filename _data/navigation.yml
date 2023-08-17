@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "Data and Scripts"
-    url: /publications/
+    url: /shareables/
 
   - title: "Links"
-    url: /talks/    
+    url: /links/    
     
   - title: "CV"
     url: /cv/
