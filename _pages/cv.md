@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV (August, 2023)"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,13 +10,11 @@ redirect_from:
 {% include base_path %}
 
 ### Education
-======
   * **Ph.D.** Astronomy and Planetary Science, Northern Arizona University (NAU), 2023
   * **M.S.** Geology, The City College of New York (CCNY), 2018
   * **B.A.** Engineering Physics, Dartmouth College, 2015
 
 ### Professional Positions
-======
   * 2023-Present: **Postdoctoral Researcher**, Northern Arizona University, Flagstaff, AZ
   * 2018-2023: **Graduate Research Assistant**, Northern Arizona University, Flagstaff, AZ
   * 2016-2018: **Graduate Research Assistant**, The City College of New York, New York, NY
@@ -24,7 +22,6 @@ redirect_from:
   * 2014-2015: **Research Assistant**, Dartmouth College, Hanover, NH
   
 ### Skills
-======
   * **Programming/Computational Experience**
       * Matlab, Python, IDL, CRBasic, ArcGIS, SolidWorks, Slurm high performance parallel computing.
   * **Laboratory Experience**
@@ -35,7 +32,6 @@ redirect_from:
       * FAA Part 107 Licensed Small UAS Pilot – FAA 
 
 ### Publications
-======
   1. Annex, A. M., Lewis, K. W., Koeppel, A., Edwards, C. S. (2023). Bedding scale correlation on Mars in western Arabia Terra. Journal of Geophysical Research: Planets.
   2. Koeppel, A.H.D., Edwards, C. S., Annex, A. M., Lewis, K. W., & Carrillo, G. J. (2021). A fragile record of fleeting water on Mars. Geology. 50(2), 152-157.
   3. Tarnas, J. D., Stack, K. M., Parente, M., Koeppel, A.H.D., Mustard J. F., Moore K.R., Horgan B. H. N., Seelos F. P., Cloutis E. A., Kelemen P. B., Flannery D., Brown A. J., Frizzell K. R., Pinet P. (2021). Characteristics, Origins, and Biosignature Preservation Potential of Carbonate‐Bearing Rocks Within and Outside of Jezero Crater. Journal of Geophysical Research: Planets, 126(11), e2021JE006898.
@@ -44,10 +40,9 @@ redirect_from:
   6. Fesen, R.A.; Neustadt, J., Black, C., and Koeppel, A. (2015). Discovery of an Apparent High Latitude Galactic Supernova Remnant. The Astrophysical Journal, 812(37)
   
 ### Presentations
-======
   1. Koeppel, A., Edwards, C. S., Edgar, L. A., Gullikson, A., Bennett, K., Piqueux, S., Nowicki, S., Eifert, H., Weintraub, A., Ahern, A., Rogers, A. D. (2023) Surface Temperatures from Mars to Earth and Back: Developing New Interpretations of Thermal Inertia from Ground Truth Experiments. Abstract of the 54th Annual Lunar and Planetary Science Conference. No. 2806. The Woodlands, TX.
   2. Koeppel, A., Edwards, C. S., Eifert, H., Edgar, L. A., Nowicki, S., Bennett, K., Gullikson, A., Piqueux, S., Rutledge, A. M., Rampe, E., Carr, B., Rogers, A. D. (2022). Using Surface Temperatures to Interpret Sediments and Volatiles at Mars Analog Sites. Abstract of GSA Connects 2022. Denver, CO.
-  3. Koeppel, A. “Infrared Mars” Invited talk at the Science Museum of Virginia. March 2nd, 2022
+  3. [Koeppel, A. “Infrared Mars” Invited talk at the Science Museum of Virginia. March 2nd, 2022](https://www.youtube.com/watch?v=vCP_q8-Ac8I)
   4. Koeppel, A., Edwards, C. S., Bennett, K., A.; Edgar, L. A., Eifert, H., Gullikson, A., Nowicki, S., Piqueux, S., Rogers, A. D. (2021). Linking Thermal Properties of Terrestrial Sedimentary Environments to Mars. Abstract EP25H-1405 of the 2021 AGU Fall Meeting, New Orleans, LA.
   5. Koeppel, A., Edwards, C. S.; Carrillo, G.; Annex, A. M.; Lewis, K. W. (2020). The Martian Dust Bowl: Thermal Inertia in Sediment-Filled Craters Reveals a Noachian Dry Spell. Abstract P073-05 of the 2020 AGU Fall Meeting, Virtual.
   6. Koeppel, A.; Edwards, C. S.; Carrillo, G.; Annex, A.; Lewis, K. (2020) Reinterpreting Thermal Inertia for Mapping Martian Geology. Abstract 7056 of the 2020 Annual Meeting of Planetary Geologic Mappers, Virtual.
@@ -56,20 +51,16 @@ redirect_from:
   9. Koeppel, A.H.D., Edgar, L., (2019). Recognizing Stratigraphic Diversity through 1:10,000 scale Geologic mapping of Northwest Aeolis Mons, Mars. Abstract 7015 of the Annual Meeting of Planetary Geologic Mappers, Flagstaff, AZ.
   10. Koeppel, A., Black, B. and Marchi, S., (2017). Differentiation in Impact Melt Sheets as a Mechanism to Produce Evolved Magmas on Mars. Abstract P51A-2579 of the 2017 AGU Fall Meeting, New Orleans, LA.
 
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+[Recording of PhD Thesis Defense public portion](https://nau.zoom.us/rec/share/9o-63HetKPQCaShhpYKqFksMAl0_bPlT4Erf8wFq45iiXDsbnixg7gUVCqoL4Bbp.zmquaOm9OFj8msJU)
   
 ### Teaching
-======
-  * 2022, **Instructor**, Introduction to Astronomy, NAU
+  * 2022, **Instructor**, [Introduction to Astronomy, NAU](https://bblearn.nau.edu/ultra/courses/_273408_1/cl/outline)
   * 2016-2017, **Teaching Assistant**, ESS Modeling/Databases & Geomorphology, CCNY
   * 2016, **Instructor**, Introduction to Earth Systems Science (ESS), CCNY
   * 2015, **High School Instructor**, Physics, Colorado Rocky Mountain School, Carbondale, CO
   * 2014, **Teaching Assistant**, Thermodynamics, Dartmouth College
   
 ### Service and leadership
-======
   * 2022, Planetary ReaCH Workshop for Culturally Inclusive Planetary Engagement, Laurel, MD
   * 2019-2023, NAU Astronomy and Planetary Science Equity, Diversity & Inclusivity Committee
   * 2017-Present, American Geophysical Union
