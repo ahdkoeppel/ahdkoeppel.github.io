@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Data and Scripts"
+permalink: /shareables/
 author_profile: true
 ---
 

@@ -12,9 +12,9 @@ redirect_from:
 Education
 ======
 * Ph.D. Astronomy and Planetary Science, Northern Arizona University (NAU), 2023
-	Thesis: Linking Surface Temperatures to Past Environments on Mars Through Remote Sensing, Modeling, and Analog Study
+ * Thesis: Linking Surface Temperatures to Past Environments on Mars Through Remote Sensing, Modeling, and Analog Study
 * M.S. Geology, The City College of New York (CCNY), 2018
-	Thesis: Differentiation in Impact Melt Sheets as a Mechanism to Produce Evolved Magmas on Mars
+ * Thesis: Differentiation in Impact Melt Sheets as a Mechanism to Produce Evolved Magmas on Mars
 * B.A. Engineering Physics, Dartmouth College, 2015
 
 Professional Positions
@@ -41,9 +41,9 @@ Professional Positions
   
 Skills
 ======
-*Programming/Computational Experience
- *Matlab, Python, IDL, CRBasic, ArcGIS, SolidWorks, Slurm high performance parallel computing.
-*Laboratory Experience
+* Programming/Computational Experience
+ * Matlab, Python, IDL, CRBasic, ArcGIS, SolidWorks, Slurm high performance parallel computing.
+* Laboratory Experience
   * FTIR, XRD, EMPA, SEM, ASD, rock and sediment processing, electrical design.
 
 Publications
