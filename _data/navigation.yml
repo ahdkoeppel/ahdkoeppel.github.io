@@ -6,8 +6,5 @@ main:
   - title: "Expeditions"
     url: /expeditions/    
 
-  - title: "Data and Scripts"
-    url: /shareables/    
-    
   - title: "CV"
     url: /cv/
