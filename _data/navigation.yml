@@ -1,10 +1,13 @@
 # main links links
 main:
-  - title: "Data and Scripts"
-    url: /shareables/
+  - title: "Portfolio"
+    url: /portfolio/
 
-  - title: "Links"
-    url: /links/    
+  - title: "Expeditions"
+    url: /expeditions/    
+
+  - title: "Data and Scripts"
+    url: /shareables/    
     
   - title: "CV"
     url: /cv/
