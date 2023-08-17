@@ -9,92 +9,71 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+### Education
 ======
-* Ph.D. Astronomy and Planetary Science, Northern Arizona University (NAU), 2023
- * Thesis: Linking Surface Temperatures to Past Environments on Mars Through Remote Sensing, Modeling, and Analog Study
-* M.S. Geology, The City College of New York (CCNY), 2018
- * Thesis: Differentiation in Impact Melt Sheets as a Mechanism to Produce Evolved Magmas on Mars
-* B.A. Engineering Physics, Dartmouth College, 2015
+  * **Ph.D.** Astronomy and Planetary Science, Northern Arizona University (NAU), 2023
+  * **M.S.** Geology, The City College of New York (CCNY), 2018
+  * **B.A.** Engineering Physics, Dartmouth College, 2015
 
-Professional Positions
+### Professional Positions
 ======
-* 2023-Present: Postdoctoral Researcher
-  * Northern Arizona University, Flagstaff, AZ
-  * Mars remote sensing, geology, atmospheric science, instrument development
-
-* 2018-2023: Graduate Research Assistant
-  * Northern Arizona University, Flagstaff, AZ
-  * Mars remote sensing, geology, atmospheric science, instrument development
-
-* 2016-2018: Graduate Research Assistant
-  * The City College of New York, New York, NY
-  * Mars impact process modeling
-
-* 2017: Student Contractor
-  * USGS Astrogeology Science Center, Flagstaff, AZ
-  * Mars remote sensing, geologic mapping 
-
-* 2014-2015: Research Assistant
-  * Dartmouth College, Hanover, NH 
-  * Supernova remnant astronomy
+  * 2023-Present: **Postdoctoral Researcher**, Northern Arizona University, Flagstaff, AZ
+  * 2018-2023: **Graduate Research Assistant**, Northern Arizona University, Flagstaff, AZ
+  * 2016-2018: **Graduate Research Assistant**, The City College of New York, New York, NY
+  * 2017: **Student Contractor**, USGS Astrogeology Science Center, Flagstaff, AZ
+  * 2014-2015: **Research Assistant**, Dartmouth College, Hanover, NH
   
-Skills
+### Skills
 ======
-* Programming/Computational Experience
- * Matlab, Python, IDL, CRBasic, ArcGIS, SolidWorks, Slurm high performance parallel computing.
-* Laboratory Experience
-  * FTIR, XRD, EMPA, SEM, ASD, rock and sediment processing, electrical design.
+  * **Programming/Computational Experience**
+      * Matlab, Python, IDL, CRBasic, ArcGIS, SolidWorks, Slurm high performance parallel computing.
+  * **Laboratory Experience**
+      * FTIR, XRD, EMPA, SEM, ASD, rock and sediment processing, electrical design.
+  * **Field Qualifications**
+      * Wilderness Emergency Medical Technician/Wilderness First Responder, National Outdoor Leadership School (NOLS)
+      * Swiftwater Rescue Technician
+      * FAA Part 107 Licensed Small UAS Pilot – FAA 
 
-Publications
+### Publications
 ======
-Annex, A. M., Lewis, K. W., Koeppel, A., Edwards, C. S. (2023). Bedding scale correlation on Mars in western Arabia Terra. Journal of Geophysical Research: Planets.
-Koeppel, A.H.D., Edwards, C. S., Annex, A. M., Lewis, K. W., & Carrillo, G. J. (2021). A fragile record of fleeting water on Mars. Geology. 50(2), 152-157.
-Tarnas, J. D., Stack, K. M., Parente, M., Koeppel, A.H.D., Mustard J. F., Moore K.R., Horgan B. H. N., Seelos F. P., Cloutis E. A., Kelemen P. B., Flannery D., Brown A. J., Frizzell K. R., Pinet P. (2021). Characteristics, Origins, and Biosignature Preservation Potential of Carbonate‐Bearing Rocks Within and Outside of Jezero Crater. Journal of Geophysical Research: Planets, 126(11), e2021JE006898.
-Carrier, B.L., et al., (incl. Koeppel, A.H.D.) (2020). Mars Extant Life: What's Next? Conference Report. Astrobiology, 20(6)
-Koeppel, A., Black, B. and Marchi, S., (2020). Differentiation in Impact Melt Sheets as a Mechanism to Produce Evolved Magmas on Mars. Icarus, 335(113422)
-Fesen, R.A.; Neustadt, J., Black, C., and Koeppel, A. (2015). Discovery of an Apparent High Latitude Galactic Supernova Remnant. The Astrophysical Journal, 812(37)
+  1. Annex, A. M., Lewis, K. W., Koeppel, A., Edwards, C. S. (2023). Bedding scale correlation on Mars in western Arabia Terra. Journal of Geophysical Research: Planets.
+  2. Koeppel, A.H.D., Edwards, C. S., Annex, A. M., Lewis, K. W., & Carrillo, G. J. (2021). A fragile record of fleeting water on Mars. Geology. 50(2), 152-157.
+  3. Tarnas, J. D., Stack, K. M., Parente, M., Koeppel, A.H.D., Mustard J. F., Moore K.R., Horgan B. H. N., Seelos F. P., Cloutis E. A., Kelemen P. B., Flannery D., Brown A. J., Frizzell K. R., Pinet P. (2021). Characteristics, Origins, and Biosignature Preservation Potential of Carbonate‐Bearing Rocks Within and Outside of Jezero Crater. Journal of Geophysical Research: Planets, 126(11), e2021JE006898.
+  4. Carrier, B.L., et al., (incl. Koeppel, A.H.D.) (2020). Mars Extant Life: What's Next? Conference Report. Astrobiology, 20(6)
+  5. Koeppel, A., Black, B. and Marchi, S., (2020). Differentiation in Impact Melt Sheets as a Mechanism to Produce Evolved Magmas on Mars. Icarus, 335(113422)
+  6. Fesen, R.A.; Neustadt, J., Black, C., and Koeppel, A. (2015). Discovery of an Apparent High Latitude Galactic Supernova Remnant. The Astrophysical Journal, 812(37)
   
-
-<ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Presentations
+### Presentations
 ======
-Koeppel, A., Edwards, C. S., Edgar, L. A., Gullikson, A., Bennett, K., Piqueux, S., Nowicki, S., Eifert, H., Weintraub, A., Ahern, A., Rogers, A. D. (2023) Surface Temperatures from Mars to Earth and Back: Developing New Interpretations of Thermal Inertia from Ground Truth Experiments. Abstract of the 54th Annual Lunar and Planetary Science Conference. No. 2806. The Woodlands, TX.
-Koeppel, A., Edwards, C. S., Eifert, H., Edgar, L. A., Nowicki, S., Bennett, K., Gullikson, A., Piqueux, S., Rutledge, A. M., Rampe, E., Carr, B., Rogers, A. D. (2022). Using Surface Temperatures to Interpret Sediments and Volatiles at Mars Analog Sites. Abstract of GSA Connects 2022. Denver, CO.
-Koeppel, A. “Infrared Mars” Invited talk at the Science Museum of Virginia. March 2nd, 2022
-Koeppel, A., Edwards, C. S., Bennett, K., A.; Edgar, L. A., Eifert, H., Gullikson, A., Nowicki, S., Piqueux, S., Rogers, A. D. (2021). Linking Thermal Properties of Terrestrial Sedimentary Environments to Mars. Abstract EP25H-1405 of the 2021 AGU Fall Meeting, New Orleans, LA.
-Koeppel, A., Edwards, C. S.; Carrillo, G.; Annex, A. M.; Lewis, K. W. (2020). The Martian Dust Bowl: Thermal Inertia in Sediment-Filled Craters Reveals a Noachian Dry Spell. Abstract P073-05 of the 2020 AGU Fall Meeting, Virtual.
-Koeppel, A.; Edwards, C. S.; Carrillo, G.; Annex, A.; Lewis, K. (2020) Reinterpreting Thermal Inertia for Mapping Martian Geology. Abstract 7056 of the 2020 Annual Meeting of Planetary Geologic Mappers, Virtual.
-Koeppel A., Trilling D., Koch G., Schwartz E., Edwards C., (2019) Testing Methods for Detection of Unfamiliar Life in Martian Regolith. Abstract 5100 of the Mars Extant Life: What’s Next? Conference, Carlsbad, NM.
-Koeppel, A.H.D., A. M. Annex, C. Pan, C. S. Edwards, K. W. Lewis, (2019). Compositional and Thermophysical Indicators of Regional Aqueous Activity in Arabia Terra Crater Deposits. Abstract 6319 of the Ninth International Conference on Mars, Pasadena, CA.
-Koeppel, A.H.D., Edgar, L., (2019). Recognizing Stratigraphic Diversity through 1:10,000 scale Geologic mapping of Northwest Aeolis Mons, Mars. Abstract 7015 of the Annual Meeting of Planetary Geologic Mappers, Flagstaff, AZ.
-Koeppel, A., Black, B. and Marchi, S., (2017). Differentiation in Impact Melt Sheets as a Mechanism to Produce Evolved Magmas on Mars. Abstract P51A-2579 of the 2017 AGU Fall Meeting, New Orleans, LA.
+  1. Koeppel, A., Edwards, C. S., Edgar, L. A., Gullikson, A., Bennett, K., Piqueux, S., Nowicki, S., Eifert, H., Weintraub, A., Ahern, A., Rogers, A. D. (2023) Surface Temperatures from Mars to Earth and Back: Developing New Interpretations of Thermal Inertia from Ground Truth Experiments. Abstract of the 54th Annual Lunar and Planetary Science Conference. No. 2806. The Woodlands, TX.
+  2. Koeppel, A., Edwards, C. S., Eifert, H., Edgar, L. A., Nowicki, S., Bennett, K., Gullikson, A., Piqueux, S., Rutledge, A. M., Rampe, E., Carr, B., Rogers, A. D. (2022). Using Surface Temperatures to Interpret Sediments and Volatiles at Mars Analog Sites. Abstract of GSA Connects 2022. Denver, CO.
+  3. Koeppel, A. “Infrared Mars” Invited talk at the Science Museum of Virginia. March 2nd, 2022
+  4. Koeppel, A., Edwards, C. S., Bennett, K., A.; Edgar, L. A., Eifert, H., Gullikson, A., Nowicki, S., Piqueux, S., Rogers, A. D. (2021). Linking Thermal Properties of Terrestrial Sedimentary Environments to Mars. Abstract EP25H-1405 of the 2021 AGU Fall Meeting, New Orleans, LA.
+  5. Koeppel, A., Edwards, C. S.; Carrillo, G.; Annex, A. M.; Lewis, K. W. (2020). The Martian Dust Bowl: Thermal Inertia in Sediment-Filled Craters Reveals a Noachian Dry Spell. Abstract P073-05 of the 2020 AGU Fall Meeting, Virtual.
+  6. Koeppel, A.; Edwards, C. S.; Carrillo, G.; Annex, A.; Lewis, K. (2020) Reinterpreting Thermal Inertia for Mapping Martian Geology. Abstract 7056 of the 2020 Annual Meeting of Planetary Geologic Mappers, Virtual.
+  7. Koeppel A., Trilling D., Koch G., Schwartz E., Edwards C., (2019) Testing Methods for Detection of Unfamiliar Life in Martian Regolith. Abstract 5100 of the Mars Extant Life: What’s Next? Conference, Carlsbad, NM.
+  8. Koeppel, A.H.D., A. M. Annex, C. Pan, C. S. Edwards, K. W. Lewis, (2019). Compositional and Thermophysical Indicators of Regional Aqueous Activity in Arabia Terra Crater Deposits. Abstract 6319 of the Ninth International Conference on Mars, Pasadena, CA.
+  9. Koeppel, A.H.D., Edgar, L., (2019). Recognizing Stratigraphic Diversity through 1:10,000 scale Geologic mapping of Northwest Aeolis Mons, Mars. Abstract 7015 of the Annual Meeting of Planetary Geologic Mappers, Flagstaff, AZ.
+  10. Koeppel, A., Black, B. and Marchi, S., (2017). Differentiation in Impact Melt Sheets as a Mechanism to Produce Evolved Magmas on Mars. Abstract P51A-2579 of the 2017 AGU Fall Meeting, New Orleans, LA.
 
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+### Teaching
 ======
-Instructor, Introduction to Astronomy, NAU								    2022
-Teaching Assistant, ESS Modeling/Databases & Geomorphology, CCNY			       2016-2017
-Instructor, Introduction to Earth Systems Science (ESS), CCNY				 		    2016
-High School Instructor, Physics, Colorado Rocky Mountain School, Carbondale, CO			    2015
-Teaching Assistant, Thermodynamics, Dartmouth College						    2014
+  * 2022, **Instructor**, Introduction to Astronomy, NAU
+  * 2016-2017, **Teaching Assistant**, ESS Modeling/Databases & Geomorphology, CCNY
+  * 2016, **Instructor**, Introduction to Earth Systems Science (ESS), CCNY
+  * 2015, **High School Instructor**, Physics, Colorado Rocky Mountain School, Carbondale, CO
+  * 2014, **Teaching Assistant**, Thermodynamics, Dartmouth College
   
-<ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+### Service and leadership
 ======
-* Planetary ReaCH Workshop for Culturally Inclusive Planetary Engagement, Laurel, MD		   2022
-NAU Astronomy and Planetary Science Equity, Diversity & Inclusivity Committee		      2019-2023
-American Geophysical Union								           2017-PRESENT
-Geological Society of America								           2017-PRESENT
-Proposal Reviewer, NASA ROSES								      2020-2023
-Manuscript Reviewer, Icarus										    2023
+  * 2022, Planetary ReaCH Workshop for Culturally Inclusive Planetary Engagement, Laurel, MD
+  * 2019-2023, NAU Astronomy and Planetary Science Equity, Diversity & Inclusivity Committee
+  * 2017-Present, American Geophysical Union
+  * 2017-Present, Geological Society of America
+  * 2020-2023, Proposal Reviewer, NASA ROSES
+  * 2023, Manuscript Reviewer, Icarus
 
