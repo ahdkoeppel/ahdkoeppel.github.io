@@ -181,6 +181,9 @@ collections:
   expeditions:
     output: true
     permalink: /:collection/:path/
+  adventures:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -222,6 +225,15 @@ defaults:
   - scope:
       path: ""
       type: expeditions
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _adventures
+  - scope:
+      path: ""
+      type: adventures
     values:
       layout: single
       author_profile: true

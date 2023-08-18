@@ -1,20 +1,14 @@
 ---
-title: "Equador"
+title: "Thermophysics in the Southwestern US"
 collection: expeditions
-type: "Foreign Study Program"
-permalink: /expeditions/2014-southern-africa
+type: "Field Work"
+permalink: /expeditions/2021-southwest
 venue: ""
-date: 2014-01-01
+date: 2021-10-01
 location: ""
 ---
+NASA PSTAR and FINESST funded fieldwork in the southwestern US. Sites include the San Francisco Volcanic Field, AZ, Pahrump Playa, NV, and Hunt's Hole, NM.
 
-This is a description of a teaching experience. You can use markdown like any other post.
+<br/><img src='9481_planetaryscience_20210513.png' width='450'/>
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+More photos coming soon!

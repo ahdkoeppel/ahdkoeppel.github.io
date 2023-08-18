@@ -1,20 +1,13 @@
 ---
-title: "Equador"
+title: "Thermophysics at Breiðamerkurjökull, Iceland"
 collection: expeditions
-type: "Foreign Study Program"
-permalink: /expeditions/2014-southern-africa
+type: "Field Work"
+permalink: /expeditions/2022-iceland
 venue: ""
 date: 2014-01-01
 location: ""
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+NASA FINESST and SSW funded fieldwork at the margin of Breiðamerkurjökull glacier in southern Iceland.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+More photos coming soon!

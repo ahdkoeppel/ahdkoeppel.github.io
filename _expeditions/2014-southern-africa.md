@@ -4,17 +4,11 @@ collection: expeditions
 type: "Foreign Study Program"
 permalink: /expeditions/2014-southern-africa
 venue: ""
-date: 2014-01-01
+date: 2014-11-01
 location: "South Africa and Namibia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Dartmouth Environmental Studies Foreign Studies program - Fall, 2014.
+<br/><img src='/images/10952099_10152629521703091_6653878523729964015_o.jpg' width='450'/>
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+More photos coming soon!
