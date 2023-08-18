@@ -1,20 +1,13 @@
 ---
-title: "Equador"
+title: "NASA Planetary Volcanology Field Workshop"
 collection: expeditions
-type: "Foreign Study Program"
-permalink: /expeditions/2014-southern-africa
+type: "Field Camp"
+permalink: /expeditions/2019-hawaii
 venue: ""
-date: 2014-01-01
+date: 2019-08-01
 location: ""
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+NASA Planetary Volcanology Field Workshop on the Big Island of Hawai'i, 2019.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+More photos coming soon!

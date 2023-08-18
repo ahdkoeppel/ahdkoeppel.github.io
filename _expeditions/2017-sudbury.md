@@ -1,20 +1,15 @@
 ---
-title: "Equador"
+title: "Sudbury Impact Structure Field Camp"
 collection: expeditions
-type: "Foreign Study Program"
-permalink: /expeditions/2014-southern-africa
+type: "Field Camp"
+permalink: /expeditions/2017-sudbury
 venue: ""
-date: 2014-01-01
+date: 2017-11-01
 location: ""
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+2017 LPI-JSC/CLRN Sudbury Impact Structure Field Camp
+<br/><img src='/images/ak5.jpg' width='450'/>
+<img src='/images/sudbury072048.jpg' width='450'/>
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+More photos coming soon!
