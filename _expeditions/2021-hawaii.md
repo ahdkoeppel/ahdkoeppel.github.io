@@ -4,7 +4,7 @@ collection: expeditions
 type: "Field Camp"
 permalink: /expeditions/2021-hawaii
 venue: ""
-date: 2019-08-01
+date: 2021-09-01
 location: ""
 ---
 
