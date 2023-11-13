@@ -15,7 +15,7 @@ redirect_from:
   * **B.A.** Engineering Physics, Dartmouth College, 2015
 
 ### Professional Positions
-  * 2023-Present: **Postdoctoral Research Fellow**, UMBC/CRESST II, NASA Goddard Spaceflight Center, Greenbelt, MD
+  * 2023-Present: **Postdoctoral Research Associate**, UMBC/CRESST II, NASA Goddard Spaceflight Center, Greenbelt, MD
   * 2018-2023: **Graduate Research Assistant**, Northern Arizona University, Flagstaff, AZ
   * 2016-2018: **Graduate Research Assistant**, The City College of New York, New York, NY
   * 2017: **Student Contractor**, USGS Astrogeology Science Center, Flagstaff, AZ
