@@ -10,6 +10,6 @@ location: ""
 
 NASA FINESST funded fieldwork at Kilauea Volcano.
 
-<br/><img src='img_3648-1.png' width='450'/>
+<br/><img src='/images/img_3648-1.png' width='450'/>
 
 More photos coming soon!
