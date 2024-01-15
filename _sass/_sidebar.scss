@@ -116,9 +116,6 @@
 .author__name {
   margin: 0;
   background: #fff;
-  border: 1px solid $border-color;
-  border-radius: $border-radius;
-  margin-top: 15px;
   padding: 10px;
 
   @include breakpoint($large) {
@@ -135,9 +132,6 @@
 .author__bio {
   margin: 0;
   background: #fff;
-  border: 1px solid $border-color;
-  border-radius: $border-radius;
-  margin-top: 15px;
   padding: 10px;
 
   @include breakpoint($large) {
