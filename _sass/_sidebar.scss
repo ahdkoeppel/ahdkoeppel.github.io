@@ -96,14 +96,10 @@
 .author__content {
   display: table-cell;
   vertical-align: top;
-  padding-left: 15px;
-  padding-right: 25px;
   line-height: 1;
   background: #fff;
   border: 1px solid $border-color;
   border-radius: $border-radius;
-  margin-top: 15px;
-  padding: 10px;
 
   @include breakpoint($large) {
     display: block;
