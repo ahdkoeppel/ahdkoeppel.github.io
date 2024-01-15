@@ -9,7 +9,7 @@ redirect_from:
 ---
 <style>
 body {
-  background-image: url('/images/MarsRise.JPG');
+  background-image: url('/images/MarsRise.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
