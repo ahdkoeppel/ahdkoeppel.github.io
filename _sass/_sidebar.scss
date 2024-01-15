@@ -99,6 +99,11 @@
   padding-left: 15px;
   padding-right: 25px;
   line-height: 1;
+  background: #fff;
+  border: 1px solid $border-color;
+  border-radius: $border-radius;
+  margin-top: 15px;
+  padding: 10px;
 
   @include breakpoint($large) {
     display: block;
@@ -111,6 +116,10 @@
 .author__name {
   margin: 0;
   background: #fff;
+  border: 1px solid $border-color;
+  border-radius: $border-radius;
+  margin-top: 15px;
+  padding: 10px;
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -126,6 +135,10 @@
 .author__bio {
   margin: 0;
   background: #fff;
+  border: 1px solid $border-color;
+  border-radius: $border-radius;
+  margin-top: 15px;
+  padding: 10px;
 
   @include breakpoint($large) {
     margin-top: 10px;
