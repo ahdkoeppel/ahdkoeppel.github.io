@@ -110,10 +110,12 @@
 
 .author__name {
   margin: 0;
+  background: #fff;
 
   @include breakpoint($large) {
     margin-top: 10px;
     margin-bottom: 10px;
+    background: #fff;
   }
 }
 .sidebar .author__name {
@@ -123,10 +125,12 @@
 
 .author__bio {
   margin: 0;
+  background: #fff;
 
   @include breakpoint($large) {
     margin-top: 10px;
     margin-bottom: 20px;
+    background: #fff;
   }
 }
 
