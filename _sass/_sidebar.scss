@@ -178,7 +178,7 @@
     margin: 0;
     padding: 0;
     border: 0;
-    background: transparent;
+    background: #fff;
     box-shadow: none;
   }
 
@@ -191,7 +191,7 @@
     width: 0;
     border-style: solid;
     border-width: 0 10px 10px;
-    border-color: $border-color transparent;
+    border-color: $border-color #fff;
     z-index: 0;
 
     @include breakpoint($large) {
@@ -208,7 +208,7 @@
     width: 0;
     border-style: solid;
     border-width: 0 10px 10px;
-    border-color: #fff transparent;
+    border-color: #fff;
     z-index: 1;
 
     @include breakpoint($large) {
