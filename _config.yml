@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "ahdkoeppel"
+title                    : "Ari Koeppel"
 title_separator          : "-"
 name                     : &name "Ari H. D. Koeppel"
-description              : &description "Planetary Surface-Atmosphere Interactions Scientist"
+description              : &description "Planetary Thermodynamics Scientist"
 url                      : "https://ahdkoeppel.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ahdkoeppel.github.io"
