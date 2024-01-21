@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<meta name="google-site-verification" content="KJPTxa2PkZnlVUa3YiA-FiAzk9be6gA1DZd-j-GZO-A" />
 <style>
 body {
   background-image: url('/images/MarsRise.jpg');
