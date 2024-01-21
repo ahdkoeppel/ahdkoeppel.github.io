@@ -3,6 +3,7 @@ permalink: /
 title: "About me"
 excerpt: "Ari Koeppel"
 author_profile: true
+meta: name="google-site-verification" content="KJPTxa2PkZnlVUa3YiA-FiAzk9be6gA1DZd-j-GZO-A"
 redirect_from: 
   - /about/
   - /about.html
@@ -27,4 +28,4 @@ body {
 ## Outside of Science
 <div style="text-align: justify;background-color:rgba(255, 255, 255, 0.5);color:Black;"> I enjoy spending time exploring and teaching outside and making art. Some of my favorite activities include whitewater sports, skiing, cycling, climbing mountains, sculpting, ice hockey, and walking my dog Gwynnie.</div>
 ![](/images/img_7343.png)
-*Gwynnie the dinosaur with footprints in Slickrock Canyon, CO*
+<div style="text-align: justify;color:White;"> *Gwynnie the dinosaur with footprints in Slickrock Canyon, CO* </div>
