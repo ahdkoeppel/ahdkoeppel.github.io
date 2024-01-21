@@ -8,18 +8,7 @@ redirect_from:
   - /about.html
 
 ---
-<head>
-<meta name="google-site-verification" content="KJPTxa2PkZnlVUa3YiA-FiAzk9be6gA1DZd-j-GZO-A" />
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=GA_TRACKING_ID"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){window.dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'GA_TRACKING_ID');
-</script>
-</head>
 <style>
 body {
   background-image: url('/images/MarsRise.jpg');
