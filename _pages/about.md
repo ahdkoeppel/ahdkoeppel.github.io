@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "About me"
 excerpt: "Ari Koeppel"
 author_profile: true
 redirect_from: 
@@ -8,6 +7,7 @@ redirect_from:
   - /about.html
 
 ---
+<h1 style="text-align: justify;color:White;">About Ari</h1>
 
 <style>
 body {
