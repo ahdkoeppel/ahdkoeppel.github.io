@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 
 ---
-<h1 style="text-align: justify;color:White;">About Ari</h1>
+<h1 style="text-align: justify;color:White;">About Me</h1>
 
 <style>
 body {
@@ -22,5 +22,7 @@ body {
 
 <h2 style="text-align: justify;color:White;">Outside of Science</h2>
 <div style="text-align: justify;background-color:rgba(255, 255, 255, 0.75);color:Black;padding:15px;border-radius: 10px;"> I enjoy spending time exploring and teaching outside and making art. Some of my favorite activities include whitewater sports, skiing, cycling, climbing mountains, sculpting, ice hockey, and walking my dog Gwynnie.</div>
- <img src="/images/img_7343.png" alt="Ari, Gwynnie and dino tracks" style="width:512px;height:683px;border-radius: 20px;margin-left: auto;margin-right: auto;display: block;">
-<br style="color:White;margin-left: auto;margin-right: auto;display: block;"><i>Gwynnie the dinosaur with footprints in Slickrock Canyon, CO</i></br>
+<figure>
+  <img src="/images/img_7343.png" alt="Ari, Gwynnie and dino tracks" style="width:512px;height:683px;border-radius: 20px;margin-left: auto;margin-right: auto;display: block;">
+  <figcaption style="color:White;margin-left: auto;margin-right: auto;"><i>Gwynnie the dinosaur with footprints in Slickrock Canyon, CO</i></figcaption>
+</figure>
