@@ -28,4 +28,6 @@ body {
 </figure>
 
 <h3 style="text-align: justify;color:White;">Track the Perseverance Rover:</h3>
-<iframe src='https://mars.nasa.gov/maps/location/?mission=M20&site=NOW' width='800' height='450' scrolling='no' frameborder='0' allowfullscreen></iframe>
+<div id="thisframe" class="outerdiv" style="height:60vh">
+<iframe src="https://mars.nasa.gov/maps/location/?mission=M20&amp;site=NOW" style=" border:0px #FFFFFF none;" name="thisframe" id="thisframe" vspace="0" hspace="0" frameborder="0" scrolling="no" marginheight="0px" marginwidth="0px" height="100%" width="100%" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true">You need a iFrames Capable browser to view this content.</iframe>
+</div>
