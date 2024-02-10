@@ -23,11 +23,11 @@ body {
 <h2 style="text-align: justify;color:White;">Outside of Science</h2>
 <div style="text-align: justify;background-color:rgba(255, 255, 255, 0.75);color:Black;padding:15px;border-radius: 10px;"> I enjoy spending time exploring and teaching outside and making art. Some of my favorite activities include whitewater sports, skiing, cycling, climbing mountains, sculpting, ice hockey, and walking my dog Gwynnie.</div>
 <figure>
-  <img src="/images/img_7343.png" alt="Ari, Gwynnie and dino tracks" style="width:512px;height:683px;border-radius: 20px;margin-left: auto;margin-right: auto;display: block;">
+  <img src="/images/img_7343.png" alt="Ari, Gwynnie and dino tracks" style="width:512px;height:auto;border-radius: 20px;margin-left: auto;margin-right: auto;display: block;object-fit: contain">
   <figcaption style="color:White;margin-left: auto;margin-right: auto;"><i>Gwynnie the dinosaur with footprints in Slickrock Canyon, CO</i></figcaption>
 </figure>
 
 <h3 style="text-align: justify;color:White;">Track the Perseverance Rover:</h3>
 <div id="thisframe" class="outerdiv" style="height:60vh">
-<iframe src="https://mars.nasa.gov/maps/location/?mission=M20&amp;site=NOW" style=" border:0px #FFFFFF none;" name="thisframe" id="thisframe" vspace="0" hspace="0" frameborder="0" scrolling="no" marginheight="0px" marginwidth="0px" height="100%" width="100%" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true">You need a iFrames Capable browser to view this content.</iframe>
+<iframe src='https://mars.nasa.gov/maps/location/?mission=M20&site=NOW' style=" border:0px #FFFFFF none;" name="thisframe" id="thisframe" vspace="0" hspace="0" frameborder="0" scrolling="no" marginheight="0px" marginwidth="0px" height="100%" width="100%" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true">You need a iFrames Capable browser to view this content.</iframe>
 </div>
