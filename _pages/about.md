@@ -26,8 +26,3 @@ body {
   <img src="/images/img_7343.png" alt="Ari, Gwynnie and dino tracks" style="width:512px;height:683px;border-radius: 20px;margin-left: auto;margin-right: auto;display: block;object-fit: contain;">
   <figcaption style="color:White;margin-left: auto;margin-right: auto;"><i>Gwynnie the dinosaur with footprints in Slickrock Canyon, CO</i></figcaption>
 </figure>
-
-<h3 style="text-align: justify;color:White;">Track the Perseverance Rover:</h3>
-<div id="thisframe" class="outerdiv" style="height:60vh">
-<iframe src="https://mars.nasa.gov/maps/location/?mission=M20&site=NOW" style=" border:0px #FFFFFF none;">You need a iFrames Capable browser to view this content.</iframe>
-</div>

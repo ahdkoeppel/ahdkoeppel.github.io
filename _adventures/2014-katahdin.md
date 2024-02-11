@@ -2,7 +2,7 @@
 title: "Katahdin"
 collection: expeditions
 type: "Mountaineering"
-permalink: /expeditions/2014-katahdin
+permalink: /adventures/2014-katahdin
 venue: ""
 date: 2012-01-01
 location: "Maine"

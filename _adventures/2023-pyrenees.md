@@ -2,7 +2,7 @@
 title: "Equador"
 collection: expeditions
 type: "Foreign Study Program"
-permalink: /expeditions/2014-southern-africa
+permalink: /adventures/2023-pyrenees
 venue: ""
 date: 2014-01-01
 location: ""

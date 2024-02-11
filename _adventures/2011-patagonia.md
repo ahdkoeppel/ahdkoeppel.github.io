@@ -2,7 +2,7 @@
 title: "Patagonia"
 collection: expeditions
 type: "Mountaineering"
-permalink: /expeditions/2011-patagonia
+permalink: /adventures/2011-patagonia
 venue: ""
 date: 2011-01-01
 location: "Patagona, Chile"
