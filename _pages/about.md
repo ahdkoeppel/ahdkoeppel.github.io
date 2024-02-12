@@ -1,5 +1,4 @@
 ---
-title: "Ari Koeppel"
 permalink: /
 author_profile: true
 redirect_from: 
