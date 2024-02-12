@@ -1,6 +1,6 @@
 ---
+title: "Ari Koeppel"
 permalink: /
-excerpt: "Ari Koeppel"
 author_profile: true
 redirect_from: 
   - /about/
