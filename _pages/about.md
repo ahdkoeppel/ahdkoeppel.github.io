@@ -30,3 +30,8 @@ body {
 <div id="thisframe" class="outerdiv" style="height:60vh">
   <iframe src="https://mars.nasa.gov/mars2020/surface-experience/?drive=0&site=43" frameborder="0" scrolling="no" height="100%" width="100%" allowfullscreen="true"></iframe>
 </div>
+
+<h3 style="text-align: justify;color:White;">See Mars exploration happing right now:</h3>
+<div id="thisframe" class="outerdiv" style="height:60vh">
+  <iframe src="https://mars.nasa.gov/explore/mars-now/" frameborder="0" scrolling="no" height="100%" width="100%" allowfullscreen="true"></iframe>
+</div>
