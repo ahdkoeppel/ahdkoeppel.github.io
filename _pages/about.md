@@ -26,7 +26,7 @@ body {
   <figcaption style="color:White;margin-left: auto;margin-right: auto;"><i>Gwynnie the dinosaur with footprints in Slickrock Canyon, CO</i></figcaption>
 </figure>
 
-<h3 style="text-align: justify;color:White;">Experience What the Perseverance Rover is seeing:</h3>
+<h3 style="text-align: justify;color:White;">Experience what the Perseverance Rover is seeing:</h3>
 <div id="thisframe" class="outerdiv" style="height:60vh">
   <iframe src="https://mars.nasa.gov/mars2020/surface-experience/?drive=0&site=43" frameborder="0" scrolling="no" height="100%" width="100%" allowfullscreen="true"></iframe>
 </div>
