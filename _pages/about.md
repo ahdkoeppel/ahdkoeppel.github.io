@@ -33,5 +33,5 @@ body {
 
 <h3 style="text-align: justify;color:White;">See Mars exploration happing right now:</h3>
 <div id="thisframe" class="outerdiv" style="height:60vh">
-  <iframe src="https://mars.nasa.gov/explore/mars-now/" frameborder="0" scrolling="no" height="100%" width="100%" allowfullscreen="true"></iframe>
+  <iframe src="https://eyes.nasa.gov/apps/mrn/index.html#/mars" frameborder="0" scrolling="no" height="100%" width="100%" allowfullscreen="true"></iframe>
 </div>
