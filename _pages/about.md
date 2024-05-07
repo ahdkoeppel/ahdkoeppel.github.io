@@ -47,5 +47,5 @@ body {
 
 <h3 style="text-align: justify;color:White;">Current Northern Hemisphere Sea Ice Extent via ClimateReanalyzer.org, Climate Change Institute, University of Maine, NSIDC Sea Ice Index V3</h3>
 <div id="thisframe" class="outerdiv" style="height:60vh">
-  <iframe src="https://climatereanalyzer.org/clim/daily_maps/?dm_id=arc-lea3&wm_id=seaice&year=2024" frameborder="0" scrolling="yes" height="25%" width="25%" allowfullscreen="true" allow="fullscreen" data-gtm-yt-inspected-12="true"></iframe>
+  <iframe src="https://climatereanalyzer.org/clim/daily_maps/?dm_id=arc-lea3&wm_id=seaice&year=2024" scrolling="yes" height="100%" height="600" style="border:1px solid black;"></iframe>
 </div>
