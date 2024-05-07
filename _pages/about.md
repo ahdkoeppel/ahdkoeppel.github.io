@@ -27,12 +27,12 @@ body {
 </figure>
 
 <h3 style="text-align: justify;color:White;">See Mars exploration happing right now:</h3>
-<div id="thisframe" class="outerdiv" style="height:120vh">
+<div id="thisframe" class="outerdiv" style="height:90vh">
   <iframe src="https://eyes.nasa.gov/apps/mrn/index.html#/mars" frameborder="0" scrolling="no" height="100%" width="100%" allowfullscreen="true"></iframe>
 </div>
 
 <h3 style="text-align: justify;color:White;">Experience real-time Solar System exploration:</h3>
-<div id="thisframe" class="outerdiv" style="height:120vh">
+<div id="thisframe" class="outerdiv" style="height:90vh">
   <iframe src="https://eyes.nasa.gov/apps/solar-system/#/home" frameborder="0" scrolling="no" height="100%" width="100%" allowfullscreen="true" allow="fullscreen" data-gtm-yt-inspected-12="true"></iframe>
 </div>
 
