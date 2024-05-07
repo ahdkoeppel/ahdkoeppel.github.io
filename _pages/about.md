@@ -27,12 +27,12 @@ body {
 </figure>
 
 <h3 style="text-align: justify;color:White;">See Mars exploration happing right now:</h3>
-<div id="thisframe" class="outerdiv" style="height:60vh">
+<div id="thisframe" class="outerdiv" style="height:120vh">
   <iframe src="https://eyes.nasa.gov/apps/mrn/index.html#/mars" frameborder="0" scrolling="no" height="100%" width="100%" allowfullscreen="true"></iframe>
 </div>
 
 <h3 style="text-align: justify;color:White;">Experience real-time Solar System exploration:</h3>
-<div id="thisframe" class="outerdiv" style="height:60vh">
+<div id="thisframe" class="outerdiv" style="height:120vh">
   <iframe src="https://eyes.nasa.gov/apps/solar-system/#/home" frameborder="0" scrolling="no" height="100%" width="100%" allowfullscreen="true" allow="fullscreen" data-gtm-yt-inspected-12="true"></iframe>
 </div>
 
@@ -46,6 +46,6 @@ body {
 <h3 style="text-align: justify;color:White;">Current Northern Hemisphere Sea Ice Extent, click image to see full size</h3>
 <div id="thisframe" class="outerdiv" style="height:100%; width:100%;">
   <a href="https://nsidc.org/data/seaice_index/images/daily_images/N_daily_extent_hires.png" target="_blank">
-    <img alt="GOES-East" border="0" src="https://nsidc.org/data/seaice_index/images/daily_images/N_daily_extent_hires.png">
+    <img alt="Ice Index V3" border="0" src="https://nsidc.org/data/seaice_index/images/daily_images/N_daily_extent_hires.png">
   </a>
 </div>
