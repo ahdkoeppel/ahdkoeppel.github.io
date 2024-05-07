@@ -37,14 +37,14 @@ body {
 </div>
 
 <h3 style="text-align: justify;color:White;">Latest GOES-East Visible Satellite Image of Western Hemisphere, click image to see full size</h3>
-<div id="thisframe" class="outerdiv" style="height:60vh">
+<div id="thisframe" class="outerdiv" style="height:100%; width:100%;">
   <a href="https://cdn.star.nesdis.noaa.gov/GOES16/ABI/FD/GEOCOLOR/1808x1808.jpg" target="_blank">
     <img alt="GOES-East" border="0" src="https://cdn.star.nesdis.noaa.gov/GOES16/ABI/FD/GEOCOLOR/1808x1808.jpg">
   </a>
 </div>
 
 <h3 style="text-align: justify;color:White;">Current Northern Hemisphere Sea Ice Extent, click image to see full size</h3>
-<div id="thisframe" class="outerdiv" style="height:60vh">
+<div id="thisframe" class="outerdiv" style="height:100%; width:100%;">
   <a href="https://nsidc.org/data/seaice_index/images/daily_images/N_daily_extent_hires.png" target="_blank">
     <img alt="GOES-East" border="0" src="https://nsidc.org/data/seaice_index/images/daily_images/N_daily_extent_hires.png">
   </a>
