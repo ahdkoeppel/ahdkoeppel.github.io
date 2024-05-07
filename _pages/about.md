@@ -36,16 +36,16 @@ body {
   <iframe src="https://eyes.nasa.gov/apps/solar-system/#/home" frameborder="0" scrolling="no" height="100%" width="100%" allowfullscreen="true" allow="fullscreen" data-gtm-yt-inspected-12="true"></iframe>
 </div>
 
-<h3 style="text-align: justify;color:White;">Latest GOES-East Processed Visible Satellite Image of US, via ClimateReanalyzer.org, Climate Change Institute, University of Maine</h3>
-<p> Source: <a href="https://www.star.nesdis.noaa.gov/GOES/index.php" target="_blank"> NOAA GOES Image Viewer </a>. Click image to see full size.
-</p>
+<h3 style="text-align: justify;color:White;">Latest GOES-East Visible Satellite Image of Western Hemisphere, click image to see full size</h3>
 <div id="thisframe" class="outerdiv" style="height:60vh">
-  <a href="https://cdn.star.nesdis.noaa.gov/GOES16/ABI/CONUS/GEOCOLOR/5000x3000.jpg" target="_blank">
-    <img alt="GOES-East" border="0" src="https://cdn.star.nesdis.noaa.gov/GOES16/ABI/CONUS/GEOCOLOR/1250x750.jpg">
+  <a href="https://cdn.star.nesdis.noaa.gov/GOES16/ABI/FD/GEOCOLOR/1808x1808.jpg" target="_blank">
+    <img alt="GOES-East" border="0" src="https://cdn.star.nesdis.noaa.gov/GOES16/ABI/FD/GEOCOLOR/1808x1808.jpg">
   </a>
 </div>
 
-<h3 style="text-align: justify;color:White;">Current Northern Hemisphere Sea Ice Extent via ClimateReanalyzer.org, Climate Change Institute, University of Maine, NSIDC Sea Ice Index V3</h3>
+<h3 style="text-align: justify;color:White;">Current Northern Hemisphere Sea Ice Extent, click image to see full size</h3>
 <div id="thisframe" class="outerdiv" style="height:60vh">
-  <iframe src="https://climatereanalyzer.org/clim/daily_maps/?dm_id=arc-lea3&wm_id=seaice&year=2024" scrolling="yes" height="100%" height="600" style="border:1px solid black;"></iframe>
+  <a href="https://nsidc.org/data/seaice_index/images/daily_images/N_daily_extent_hires.png" target="_blank">
+    <img alt="GOES-East" border="0" src="https://nsidc.org/data/seaice_index/images/daily_images/N_daily_extent_hires.png">
+  </a>
 </div>
