@@ -26,12 +26,26 @@ body {
   <figcaption style="color:White;margin-left: auto;margin-right: auto;"><i>Gwynnie the dinosaur with footprints in Slickrock Canyon, CO</i></figcaption>
 </figure>
 
-<h3 style="text-align: justify;color:White;">Experience what the Perseverance Rover is seeing:</h3>
+<h3 style="text-align: justify;color:White;">See Mars exploration happing right now:</h3>
 <div id="thisframe" class="outerdiv" style="height:60vh">
-  <iframe src="https://mars.nasa.gov/maps/location/?mission=M20&amp;site=NOW" title="This map displays the location of where the Perseverance rover is on Mars" class="smd-iframe-iframe margin-left-auto margin-right-auto border-0" allow="fullscreen" data-gtm-yt-inspected-12="true" frameborder="0" scrolling="no" height="100%" width="100%" allowfullscreen="true"></iframe>
+  <iframe src="https://eyes.nasa.gov/apps/mrn/index.html#/mars" frameborder="0" scrolling="no" height="100%" width="100%" allowfullscreen="true"></iframe>
 </div>
 
-<h3 style="text-align: justify;color:White;">See Mars (and other solar system) exploration happing right now:</h3>
+<h3 style="text-align: justify;color:White;">Experience real-time Solar System exploration:</h3>
 <div id="thisframe" class="outerdiv" style="height:60vh">
-  <iframe src="https://eyes.nasa.gov/apps/solar-system/#/mars" frameborder="0" scrolling="no" height="100%" width="100%" allowfullscreen="true" allow="fullscreen" data-gtm-yt-inspected-12="true"></iframe>
+  <iframe src="https://eyes.nasa.gov/apps/solar-system/#/home" frameborder="0" scrolling="no" height="100%" width="100%" allowfullscreen="true" allow="fullscreen" data-gtm-yt-inspected-12="true"></iframe>
+</div>
+
+<h3 style="text-align: justify;color:White;">Latest GOES-East Processed Visible Satellite Image of US, via ClimateReanalyzer.org, Climate Change Institute, University of Maine</h3>
+<p> Source: <a href="https://www.star.nesdis.noaa.gov/GOES/index.php" target="_blank"> NOAA GOES Image Viewer </a>. Click image to see full size.
+</p>
+<div id="thisframe" class="outerdiv" style="height:60vh">
+  <a href="https://cdn.star.nesdis.noaa.gov/GOES16/ABI/CONUS/GEOCOLOR/5000x3000.jpg" target="_blank">
+    <img alt="GOES-East" border="0" src="https://cdn.star.nesdis.noaa.gov/GOES16/ABI/CONUS/GEOCOLOR/1250x750.jpg">
+  </a>
+</div>
+
+<h3 style="text-align: justify;color:White;">Current Northern Hemisphere Sea Ice Extent via ClimateReanalyzer.org, Climate Change Institute, University of Maine, NSIDC Sea Ice Index V3</h3>
+<div id="map_container">
+  <iframe src="https://climatereanalyzer.org/clim/daily_maps/?dm_id=arc-lea3&wm_id=seaice&year=2024" frameborder="0" scrolling="no" height="100%" width="100%" allowfullscreen="true" allow="fullscreen" data-gtm-yt-inspected-12="true"></iframe>
 </div>
