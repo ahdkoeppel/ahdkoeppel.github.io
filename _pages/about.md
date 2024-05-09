@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 
 ---
-<h1 style="text-align: justify;color:White;">About Me</h1>
+<h1 style="text-align: justify;color:White;">About Ari</h1>
 
 <style>
 body {
@@ -17,12 +17,12 @@ body {
 }
 </style> 
 
-<div style="text-align: justify;background-color:rgba(255, 255, 255, 0.75);color:Black;padding:15px;border-radius: 10px;"> 	I am a planetary scientist and educator with a passion for studying the surface of Mars and spreading a curiosity for nature. As a Postdoctoral UMBC/CRESST II Research Associate at NASA Goddard Spaceflight Center, I use mission data, physical modeling, and field experiments to learn about the nature of materials on Mars’ surface and what environmental conditions they record, with a focus on understanding whether life could have survived or could still survive there. My work on mission science has included roles with the Mars Science Laboratory Curiosity Rover, Mars 2020 Perseverance Rover, 2001 Mars Odyssey Thermal Emission Imaging System, and EscaPADE Visible and Infrared Observation System teams. My academic background includes a B.A. in Engineering Physics from Dartmouth College, a M.Sc. in Geology from the City College of New York, and a Ph.D. in Astronomy and Planetary Science from Northern Arizona University. I was awarded a three year NASA FINESST grant as well as NAU’s Presidential Fellowship for my doctoral work. My research has taken me on field expeditions around the world, from sand dunes in Namibia to glaciers in Iceland to volcanoes in Hawai’i. In addition to research, I've taught astronomy, geology, and physics courses to undergraduates and high school students, spearheaded outreach activities, and lead wilderness excursions for student enrichment. Wilderness exploration, like space exploration, is a pathway to fostering a connection with our natural world that I love to share with others. </div>  <p>&nbsp;</p>
+<div style="text-align: justify;background-color:rgba(255, 255, 255, 0.75);color:Black;padding:15px;border-radius: 10px;"> 	Ari Koeppel is a remote sensing scientist and educator with experince in and a passion for Mars mission science, tracking Earth surface processes, sustainable development, and science outreach. As a Postdoctoral UMBC/CRESST II Research Associate at NASA Goddard Spaceflight Center, Ari uses mission data, physical modeling, and field experiments to learn about the nature of materials on Mars’ surface and what environmental conditions they record, with a focus on understanding whether life could have survived or could still survive there. Ari also has been studying permafrost thaw processes in Earth's Arctic to better understand the threat from this climate change-related process. Ari's research has taken him on field expeditions around the world, from sand dunes in Namibia to glaciers in Iceland to volcanoes in Hawai’i. In addition to research, he has taught astronomy, geology, and physics courses to undergraduates and high school students, spearheaded outreach activities, and led wilderness excursions for student enrichment. Wilderness exploration, like space exploration, is a wonderful pathway to fostering a connection with our natural world. </div>  <p>&nbsp;</p>
 
 <h2 style="text-align: justify;color:White;">Outside of Science</h2>
-<div style="text-align: justify;background-color:rgba(255, 255, 255, 0.75);color:Black;padding:15px;border-radius: 10px;"> I enjoy spending time exploring and teaching outside and making art. Some of my favorite activities include whitewater sports, skiing, cycling, climbing mountains, sculpting, ice hockey, and walking my dog Gwynnie.</div>
+<div style="text-align: justify;background-color:rgba(255, 255, 255, 0.75);color:Black;padding:15px;border-radius: 10px;"> Some of Ari's favorite activities outside of science include whitewater sports, skiing, cycling, climbing mountains, sculpting/ceramics, ice hockey, and walking his dog Gwynnie.</div>
 <figure>
-  <img src="/images/img_7343.png" alt="Ari, Gwynnie and dino tracks" style="width:512px;height:auto;border-radius: 20px;margin-left: auto;margin-right: auto;display: block;object-fit: contain">
+  <img src="/images/img_7343.png" alt="Ari, Gwynnie and dino tracks" style="width:300px;height:auto;border-radius: 20px;margin-left: auto;margin-right: auto;display: block;object-fit: contain">
   <figcaption style="color:White;margin-left: auto;margin-right: auto;"><i>Gwynnie the dinosaur with footprints in Slickrock Canyon, CO</i></figcaption>
 </figure>
 
