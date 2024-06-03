@@ -1,6 +1,9 @@
 ---
-title: "Mars Impact Melting"
-excerpt: "<img src='/images/impact-cartoon3.jpg' width='450'/>"
+title: "Mars Regolith Life Detection"
+excerpt: "<img src='/images/pollen.jpg' width='450'/>"
 collection: portfolio
 ---
-We modeled the thermodynamic and petrologic evolution of large impacts to the surface of Mars. This process could explain the origin of some felsic rocks seen on Mars. <br/><img src='/images/impact-cartoon3.jpg'>
+
+From 2019-2021, we conducted a series of microbial detection experiments in jars filled with Mars regolith analog material.
+![](/images/pollen.jpg)
+*Fluorescence microscobe image of cell isolated from incubated Exolith Lab Mars Global Simulant-1*

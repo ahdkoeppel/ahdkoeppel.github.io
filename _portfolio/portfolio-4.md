@@ -1,9 +1,7 @@
 ---
-title: "Mars Regolith Life Detection"
-excerpt: "<img src='/images/pollen.jpg' width='450'/>"
+title: "Arabia Terra Layers"
+excerpt: "<img src='/images/4.png' width='450'/>"
 collection: portfolio
 ---
 
-From 2019-2021, we conducted a series of microbial detection experiments in jars filled with Mars regolith analog material.
-![](/images/pollen.jpg)
-*Fluorescence microscobe image of cell isolated from incubated Exolith Lab Mars Global Simulant-1*
+Using the best available orbital datasets, we were able to uncover amazing new details about an enigmatic set of materials on the surface of Mars. <br/><img src='/images/4.png'>

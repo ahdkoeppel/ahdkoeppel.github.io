@@ -1,7 +1,7 @@
 ---
-title: "Arabia Terra Layers"
-excerpt: "<img src='/images/4.png' width='450'/>"
+title: "Monitoring Permafrost Thaw"
+excerpt: "<img src='/images/IMG_5307.JPG' width='450'/>"
 collection: portfolio
 ---
 
-Using the best available orbital datasets, we were able to uncover amazing new details about an enigmatic set of materials on the surface of Mars. <br/><img src='/images/4.png'>
+We have been montioring how surface temperature patterns in space and time reflect the style and rate of thaw in Arctic permafrost. <br/><img src='/images/IMG_5307.JPG'>

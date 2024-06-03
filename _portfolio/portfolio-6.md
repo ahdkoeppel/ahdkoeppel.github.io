@@ -1,6 +1,6 @@
 ---
-title: "Gale Crater Mapping"
-excerpt: "<img src='/images/MAP_FINAL.PNG' width='450'/>"
+title: "Mars Impact Melting"
+excerpt: "<img src='/images/impact-cartoon3.jpg' width='450'/>"
 collection: portfolio
 ---
-To assist with the Curiosity rover team's future science planning, I mapped out a region of Mt. Sharp with some stunning discoveries.<br/><img src='/images/MAP_FINAL.PNG'>
+We modeled the thermodynamic and petrologic evolution of large impacts to the surface of Mars. This process could explain the origin of some felsic rocks seen on Mars. <br/><img src='/images/impact-cartoon3.jpg'>
