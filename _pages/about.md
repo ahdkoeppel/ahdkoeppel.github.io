@@ -49,3 +49,8 @@ body {
     <img alt="Ice Index V3" border="0" src="https://nsidc.org/data/seaice_index/images/daily_images/N_bm_conc.png">
   </a>
 </div>
+
+<h3 style="text-align: justify;color:White;">Arctic active layer year-to-year anomoly</h3>
+<div id="thisframe" class="outerdiv" style="height:90vh">
+  <iframe src="https://nsidc.org/data/soac/non-frozen-ground#anchor-color-key-and-bar-graph" frameborder="0" scrolling="no" height="100%" width="100%" allowfullscreen="true" allow="fullscreen" data-gtm-yt-inspected-12="true"></iframe>
+</div>
