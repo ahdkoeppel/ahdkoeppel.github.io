@@ -11,5 +11,4 @@ location: ""
 NASA FINESST funded fieldwork at Kilauea Volcano.
 
 <br/><img src='/images/img_3648-1.png' width='450'/>
-
-More photos coming soon!
+NField campaign to capture Mars analog thermal properties and conduct surface energy balance analysis.

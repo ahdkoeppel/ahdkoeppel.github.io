@@ -9,17 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-### Education
-  * **Ph.D.** Astronomy and Planetary Science, Northern Arizona University (NAU), 2023
-  * **M.S.** Geology, The City College of New York (CCNY), 2018
-  * **B.A.** Engineering Physics, Dartmouth College, 2015
-
-### Professional Positions
-  * 2023-Present: **Postdoctoral Research Associate**, UMBC/CRESST II, NASA Goddard Spaceflight Center, Greenbelt, MD
-  * 2018-2023: **Graduate Research Assistant**, Northern Arizona University, Flagstaff, AZ
-  * 2016-2018: **Graduate Research Assistant**, The City College of New York, New York, NY
-  * 2017: **Student Contractor**, USGS Astrogeology Science Center, Flagstaff, AZ
-  * 2014-2015: **Research Assistant**, Dartmouth College, Hanover, NH
+### Education and Training
+  * 2024-present: **NASA NH Space Grant Visiting Young Fellow**, Dartmouth College, Hanover, NH
+  * 2023-2024: **Postdoctoral Research Associate**, UMBC/CRESST II, NASA Goddard Spaceflight Center, Greenbelt, MD
+  * **Ph.D.** Astronomy and Planetary Science, Northern Arizona University (NAU), Flagstaff, AZ **2023**
+  * **M.S.** Geology, The City College of New York (CCNY), New York, NY **2018**
+    * 2017: **Student Contractor**, USGS Astrogeology Science Center, Flagstaff, AZ
+  * **B.A.** Engineering Physics, Dartmouth College, Hanover, NH **2015**
   
 ### Skills
   * **Programming/Computational Experience**
@@ -33,12 +29,13 @@ redirect_from:
       * FAA Part 107 Licensed Small UAS Pilot – FAA 
 
 ### Publications
-  1. [Annex, A. M., Lewis, K. W., Koeppel, A., Edwards, C. S. (2023). Bedding scale correlation on Mars in western Arabia Terra. Journal of Geophysical Research: Planets.](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2023JE007776)
-  2. [Koeppel, A.H.D., Edwards, C. S., Annex, A. M., Lewis, K. W., & Carrillo, G. J. (2021). A fragile record of fleeting water on Mars. Geology. 50(2), 152-157.](https://pubs.geoscienceworld.org/gsa/geology/article/50/2/152/608434/A-fragile-record-of-fleeting-water-on-Mars)
-  3. [Tarnas, J. D., Stack, K. M., Parente, M., Koeppel, A.H.D., Mustard J. F., Moore K.R., Horgan B. H. N., Seelos F. P., Cloutis E. A., Kelemen P. B., Flannery D., Brown A. J., Frizzell K. R., Pinet P. (2021). Characteristics, Origins, and Biosignature Preservation Potential of Carbonate‐Bearing Rocks Within and Outside of Jezero Crater. Journal of Geophysical Research: Planets, 126(11), e2021JE006898.](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021JE006898)
-  4. [Carrier, B.L., et al., (incl. Koeppel, A.H.D.) (2020). Mars Extant Life: What's Next? Conference Report. Astrobiology, 20(6)](https://www.liebertpub.com/doi/10.1089/ast.2020.2237)
-  5. [Koeppel, A., Black, B. and Marchi, S., (2020). Differentiation in Impact Melt Sheets as a Mechanism to Produce Evolved Magmas on Mars. Icarus, 335(113422)](https://www.sciencedirect.com/science/article/pii/S0019103519303525?casa_token=l4-NLSCMms8AAAAA:hTMDQQzRWfDp0cJ_FcN99kxUS7rIHCqiJ9ZDHjzKdzlyWisGzouzcTJ4cWcXaOuRNBi-FaTtr1E)
-  6. [Fesen, R.A.; Neustadt, J., Black, C., and Koeppel, A. (2015). Discovery of an Apparent High Latitude Galactic Supernova Remnant. The Astrophysical Journal, 812(37)](https://iopscience.iop.org/article/10.1088/0004-637X/812/1/37/meta)
+  7. [Koeppel, A.H., Edwards, C.S., Edgar, L.A., Nowicki, S., Bennett, K.A., Gullikson, A., Piqueux, S., Eifert, H., Chapline, D. and Rogers, A.D., (2024). A novel surface energy balance method for thermal inertia studies of terrestrial analogs. Earth and Space Science](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023EA003259)
+  6. [Annex, A. M., Lewis, K. W., Koeppel, A., Edwards, C. S. (2023). Bedding scale correlation on Mars in western Arabia Terra. Journal of Geophysical Research: Planets.](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2023JE007776)
+  5. [Koeppel, A.H.D., Edwards, C. S., Annex, A. M., Lewis, K. W., & Carrillo, G. J. (2021). A fragile record of fleeting water on Mars. Geology. 50(2), 152-157.](https://pubs.geoscienceworld.org/gsa/geology/article/50/2/152/608434/A-fragile-record-of-fleeting-water-on-Mars)
+  4. [Tarnas, J. D., Stack, K. M., Parente, M., Koeppel, A.H.D., Mustard J. F., Moore K.R., Horgan B. H. N., Seelos F. P., Cloutis E. A., Kelemen P. B., Flannery D., Brown A. J., Frizzell K. R., Pinet P. (2021). Characteristics, Origins, and Biosignature Preservation Potential of Carbonate‐Bearing Rocks Within and Outside of Jezero Crater. Journal of Geophysical Research: Planets, 126(11), e2021JE006898.](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021JE006898)
+  3. [Carrier, B.L., et al., (incl. Koeppel, A.H.D.) (2020). Mars Extant Life: What's Next? Conference Report. Astrobiology, 20(6)](https://www.liebertpub.com/doi/10.1089/ast.2020.2237)
+  2. [Koeppel, A., Black, B. and Marchi, S., (2020). Differentiation in Impact Melt Sheets as a Mechanism to Produce Evolved Magmas on Mars. Icarus, 335(113422)](https://www.sciencedirect.com/science/article/pii/S0019103519303525?casa_token=l4-NLSCMms8AAAAA:hTMDQQzRWfDp0cJ_FcN99kxUS7rIHCqiJ9ZDHjzKdzlyWisGzouzcTJ4cWcXaOuRNBi-FaTtr1E)
+  1. [Fesen, R.A.; Neustadt, J., Black, C., and Koeppel, A. (2015). Discovery of an Apparent High Latitude Galactic Supernova Remnant. The Astrophysical Journal, 812(37)](https://iopscience.iop.org/article/10.1088/0004-637X/812/1/37/meta)
   
 ### Presentations
   1. [Koeppel, A., Edwards, C. S., Edgar, L. A., Gullikson, A., Bennett, K., Piqueux, S., Nowicki, S., Eifert, H., Weintraub, A., Ahern, A., Rogers, A. D. (2023) Surface Temperatures from Mars to Earth and Back: Developing New Interpretations of Thermal Inertia from Ground Truth Experiments. Abstract of the 54th Annual Lunar and Planetary Science Conference. No. 2806. The Woodlands, TX.](https://www.hou.usra.edu/meetings/lpsc2023/pdf/1378.pdf)

@@ -11,5 +11,4 @@ location: ""
 2018 NAU Volcanology Field Camp led by Nancy Riggs
 <br/><img src='/images/IMG_8532.JPG' width='450'/>
 <img src='/images/IMG_0106.JPG' width='450'/>
-
-More photos coming soon!
+Mapping and characterization of volcanic features in The San Francisco Volcanic Field, Arizona, and Long Valley, California.

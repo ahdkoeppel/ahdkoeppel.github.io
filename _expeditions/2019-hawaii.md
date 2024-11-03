@@ -12,3 +12,4 @@ NASA Planetary Volcanology Field Workshop on the Big Island of Hawai'i, 2019.
 <br/><img src='/images/IMG_0390(1).JPG' width='300'/>
 <img src='/images/IMG_0496(1).JPG' width='300'/>
 <img src='/images/HawaiiGroupPic.png' width='600'/>
+Week-long field camp on the Big Island of Hawai’i
