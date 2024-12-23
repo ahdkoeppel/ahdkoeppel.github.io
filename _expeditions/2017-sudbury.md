@@ -8,7 +8,6 @@ date: 2017-11-01
 location: ""
 ---
 
-2017 LPI-JSC/CLRN Sudbury Impact Structure Field Camp
+2017 LPI-JSC/CLRN Sudbury Impact Structure Field Camp. Week-long field camp at Sudbury, Ontario.
 <br/><img src='/images/ak5.jpg' width='450'/>
 <img src='/images/sudbury072048.jpg' width='450'/><br/>
-Week-long field camp at Sudbury, Ontario.
