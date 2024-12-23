@@ -84,11 +84,11 @@ author:
   avatar           : "bio-photo.png"
   bio              : "Postdoctoral Researcher - Planetary Thermodynamics"
   location         : 
-  employer         : "NASA GSFC/UMBC"
+  employer         : "Dartmouth College"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=jwCWmUcAAAAJ&view_op=list_works&gmla=AOV7GLOMMFTDzc9srG5NA1mXvXC7kiQ2mkkX4fqDaWrJq0S-e5pM3YR82uGA4EBMIoQ7ACPWNtdZCs82lYFZCgi2"
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Ari-Koeppel"
+  researchgate     :  #"https://www.researchgate.net/profile/Ari-Koeppel"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         :
-  orcid            : "https://orcid.org/0000-0002-9809-4863"
+  linkedin         : "https://www.linkedin.com/in/ari-koeppel/"
+  orcid            : #"https://orcid.org/0000-0002-9809-4863"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "Sol3lingAri"
+  twitter          : #"Sol3lingAri"
   vine             :
   weibo            :
   xing             :
