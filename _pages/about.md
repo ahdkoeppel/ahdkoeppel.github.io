@@ -28,7 +28,7 @@ body {
 
 <figure>
   <img src="/images/img_7343.png" alt="Ari, Gwynnie and dino tracks" style="width:300px;height:auto;border-radius: 20px;margin-left: auto;margin-right: auto;display: block;object-fit: contain">
-  <figcaption style="text-align: center;color:White"><i>Gwynnie giving her dinosaur impression with actual dinosaur footprints in Slickrock Canyon, CO</i></figcaption>
+  <figcaption style="text-align: justify;color:White"><i>Gwynnie giving her dinosaur impression with actual dinosaur footprints in Slickrock Canyon, CO</i></figcaption>
 </figure>
 
 <h3 style="text-align: justify;color:White;">See Mars exploration happing right now:</h3>
