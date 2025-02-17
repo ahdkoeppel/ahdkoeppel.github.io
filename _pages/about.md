@@ -23,7 +23,7 @@ body {
 <div style="text-align: justify;background-color:rgba(255, 255, 255, 0.75);color:Black;padding:15px;border-radius: 10px;"> Some of Ari's favorite activities outside of science include outdoor activities like whitewater kayaking, mountaineering, gardening, and walking his dog Gwynnie, as well as creative pursuits like sculpting and ceramics. He also is a regular in pickup hockey at the local ice rink and loves old movies.</div>
 <figure>
   <img src="/images/img_7343.png" alt="Ari, Gwynnie and dino tracks" style="width:300px;height:auto;border-radius: 20px;margin-left: auto;margin-right: auto;display: block;object-fit: contain">
-  <figcaption style="text-align: justify;color:White"><i>Gwynnie giving her dinosaur impression with actual dinosaur footprints in Slickrock Canyon, CO</i></figcaption>
+  <figcaption style="text-align: center;color:White"><i>Gwynnie giving her dinosaur impression with actual dinosaur footprints in Slickrock Canyon, CO</i></figcaption>
 </figure>
 
 <h3 style="text-align: justify;color:White;">See Mars exploration happing right now:</h3>
