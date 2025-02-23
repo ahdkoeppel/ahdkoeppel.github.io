@@ -175,19 +175,19 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   expeditions:
     output: true
     permalink: /:collection/:path/
   adventures:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  research:
     output: true
     permalink: /:collection/:path/
   talks:
+    output: true
+    permalink: /:collection/:path/
+  media:
     output: true
     permalink: /:collection/:path/
 
@@ -201,10 +201,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _media
   - scope:
       path: ""
-      type: teaching
+      type: media
     values:
       layout: single
       author_profile: true
@@ -228,10 +228,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _research
   - scope:
       path: ""
-      type: portfolio
+      type: research
     values:
       layout: single
       author_profile: true
