@@ -15,7 +15,7 @@ redirect_from:
 
 <h2 style="text-align: justify;color:White;">A Typical Day (Highlights) on The Explorers Club & PONANT Northwest Passage Voyage - 2024</h2>
 <div id="thisframe" class="outerdiv" style="height:90vh">
-  <iframe src="https://www.youtube.com/watch?v=IhbcHBzO8bk" frameborder="0" scrolling="no" height="100%" width="100%" allowfullscreen="true"></iframe>
+  <iframe src="https://youtu.be/QDoBH08pU7g" frameborder="0" scrolling="no" height="100%" width="100%" allowfullscreen="true"></iframe>
 </div>
 
 <h2 style="text-align: justify;color:White;">Recording of PhD Thesis Defense public portion - 2023</h2>
