@@ -1,7 +1,7 @@
 ---
 title: "Supernova Remnant Astronomy"
 excerpt: "<img src='/images/kitt-peak.jpg' width='450'/>"
-collection: portfolio
+collection: research
 ---
 
 We collected the first optical telescope observations of gaseous filaments that formed from a supernova.<br/><img src='/images/kitt-peak.jpg'>

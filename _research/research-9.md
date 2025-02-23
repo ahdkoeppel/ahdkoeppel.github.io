@@ -1,7 +1,7 @@
 ---
 title: "Desert Ecology"
 excerpt: "<img src='/images/10952945_10152629525208091_2121619981036442779_o.jpg' alt='Dunes' width='450'/>"
-collection: portfolio
+collection: research
 ---
 In the fall of 2014, our team studied the pollination mechanisms of the understudied but keystone !Nara plant. We discovered a previously undescribed small midge playing an outsized role in keeping this thorny melon alive!<br/>
 <p float="left">
