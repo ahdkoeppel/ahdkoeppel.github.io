@@ -9,7 +9,7 @@ redirect_from:
 
 <h2 style="text-align: justify;color:Black;">'The Martian' in GIS - 2025</h2>
 <div>
-  <iframe src="https://storymaps.arcgis.com/stories/91dcc86068634314ae081b1aeb06f1a1" frameborder="0" scrolling="yes" height="500px" width="100%" allowfullscreen="true"></iframe>
+  <iframe src="https://storymaps.arcgis.com/stories/91dcc86068634314ae081b1aeb06f1a1" frameborder="0" scrolling="yes" height="500px" width="100%" allowfullscreen="true" allow="geolocation"></iframe>
 </div>
 
 <h2 style="text-align: justify;color:Black;">A Typical Day (Highlights) on The Explorers Club & PONANT Northwest Passage Voyage - 2024</h2>
