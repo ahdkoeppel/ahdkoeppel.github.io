@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ari Koeppel"
 title_separator          : "-"
 name                     : &name "Ari H. D. Koeppel"
-description              : &description "Planetary Thermodynamics Scientist"
+description              : &description "Planetary Scientist"
 url                      : "https://ahdkoeppel.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ahdkoeppel.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ari Koeppel"
   avatar           : "bio-photo.png"
-  bio              : "Postdoctoral Researcher - Planetary Thermodynamics"
+  bio              : "Postdoctoral Geospatial Researcher"
   location         : 
   employer         : "Dartmouth College"
   pubmed           : 
