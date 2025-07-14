@@ -27,6 +27,15 @@ redirect_from:
 <div>
   <iframe src="https://nau.zoom.us/rec/share/9o-63HetKPQCaShhpYKqFksMAl0_bPlT4Erf8wFq45iiXDsbnixg7gUVCqoL4Bbp.zmquaOm9OFj8msJU" frameborder="0" scrolling="no" height="500px" width="100%" allowfullscreen="true"></iframe>
 </div>
+
+<h2 style="text-align: justify;color:Black;">'The Martian' in GIS - 2025</h2>
+<div>
+  <iframe src="https://storymaps.arcgis.com/stories/b1f5e4330a8f43feb3938c94b0754868" frameborder="0" scrolling="yes" height="500px" width="100%" allowfullscreen="true" allow="geolocation"></iframe>
+</div>
+
+<h2 style="text-align: justify;color:Black;">The Conversation: A decade after the release of ‘The Martian’ and a decade out from the world it envisions, a planetary scientist checks in on real-life Mars exploration - 2025</h2>
+<div>
+  <iframe src="https://theconversation.com/a-decade-after-the-release-of-the-martian-and-a-decade-out-from-the-world-it-envisions-a-planetary-scientist-checks-in-on-real-life-mars-exploration-255752" frameborder="0" scrolling="yes" height="500px" width="100%" allowfullscreen="true" allow="geolocation"></iframe>
 -->
 
 <h2 style="text-align: justify;color:Black;">Infrared Mars Lecture - The Science Museum of Virginia - 2022</h2>
