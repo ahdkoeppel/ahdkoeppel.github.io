@@ -17,7 +17,7 @@ body {
 }
 </style> 
 
-<div style="text-align: justify;background-color:rgba(255, 255, 255, 0.75);color:Black;padding:15px;border-radius: 10px;"> 	Ari Koeppel is a postdoctoral remote sensing scientist and lecturer at Dartmouth College studying landscape dynamics on Earth and Mars. Ari uses satellite, rover, and drone observations, paired with numerical modeling and machine learning, to advance our understanding of environmental change and habitability. His recent research focuses on tracking permafrost and ice thaw in the Arctic, shedding light on the future we can expect for this vulnerable and geopolitically important region. 
+<div style="text-align: justify;background-color:rgba(255, 255, 255, 0.75);color:Black;padding:15px;border-radius: 10px;"> 	Ari Koeppel is a postdoctoral planetary scientist and lecturer at Dartmouth College studying landscape dynamics on Earth and Mars. Ari uses satellite, rover, and drone observations, paired with numerical modeling and machine learning, to advance our understanding of environmental change and habitability. His recent research focuses on tracking permafrost and ice thaw in the Arctic, shedding light on the future we can expect for this vulnerable and geopolitically important region and how it can be used to inform our understanding of buried ice on Mars. 
 
 As an educator, Ari seeks to spark scientific curiosity in students at various levels through formal courses as well as outreach events and as an experiential educator leading wilderness excursions. Ari's work affirms that creative exploration, whether in space or in Earth's wild places, is a powerful way to cultivate a deeper connection with our natural world. </div>  <p>&nbsp;</p>
 
