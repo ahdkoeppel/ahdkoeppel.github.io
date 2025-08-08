@@ -42,3 +42,8 @@ redirect_from:
 <div>
   <iframe src="https://www.youtube.com/embed/vCP_q8-Ac8I" frameborder="0" scrolling="no" height="100%" width="100%" allowfullscreen="true"></iframe>
 </div>
+
+<h2 style="text-align: justify;color:Black;">CSDMS 2025 Conference Keynote</h2>
+<div>
+  <iframe src="https://csdms.colorado.edu/wiki/Presenters-0679" frameborder="0" scrolling="no" height="100%" width="100%" allowfullscreen="true"></iframe>
+</div>
