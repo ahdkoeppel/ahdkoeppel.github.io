@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ari Koeppel"
 title_separator          : "-"
 name                     : &name "Ari H. D. Koeppel"
-description              : &description "Planetary Scientist"
+description              : &description "Planetary Scientist & Science Advocate"
 url                      : "https://ahdkoeppel.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ahdkoeppel.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Ari Koeppel"
   avatar           : "bio-photo.png"
-  bio              : "Postdoctoral Researcher"
+  bio              : "AAAS Policy abd Advocacy Fellow"
   location         : 
-  employer         : "Dartmouth College"
+  employer         : "The Planetary Society"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=jwCWmUcAAAAJ&view_op=list_works&gmla=AOV7GLOMMFTDzc9srG5NA1mXvXC7kiQ2mkkX4fqDaWrJq0S-e5pM3YR82uGA4EBMIoQ7ACPWNtdZCs82lYFZCgi2"
   email            :
