@@ -7,7 +7,10 @@ main:
     url: /expeditions/    
 
   - title: "Media"
-    url: /media/   
+    url: /media/ 
+
+  - title: "AAAS-TPS STPF Blog"
+    url: /blog/  
 
   - title: "CV"
     url: /cv/
