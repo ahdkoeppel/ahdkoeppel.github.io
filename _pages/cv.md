@@ -9,14 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-### Education and Training
-  * 2024-present: **NASA NH Space Grant Visiting Young Fellow**, Dartmouth College, Hanover, NH
+### Professional Positions
+  * 2025-Present: **Policy and Advocacy Fellow**, The Planetary Society & AAAS STPF, Washington, DC
+  * 2024-2025: **NASA NH Space Grant Visiting Young Fellow**, Dartmouth College, Hanover, NH
   * 2023-2024: **Postdoctoral Research Associate**, UMBC/CRESST II, NASA Goddard Spaceflight Center, Greenbelt, MD
+
+### Education
   * **Ph.D.** Astronomy and Planetary Science, Northern Arizona University (NAU), Flagstaff, AZ **2023**
   * **M.S.** Geology, The City College of New York (CCNY), New York, NY **2018**
     * 2017: **Student Contractor**, USGS Astrogeology Science Center, Flagstaff, AZ
   * **B.A.** Engineering Physics, Dartmouth College, Hanover, NH **2015**
-  
+
 ### Skills
   * **Programming/Computational Experience**
       * Matlab, Python, IDL, CRBasic, ArcGIS, SolidWorks, Slurm high performance parallel computing.
