@@ -24,7 +24,7 @@ redirect_from:
 
 <h2 style="text-align: justify;color:Black;">The Earth to Sky Speaking of Science Series 2026</h2>
 <div>
-  <iframe src="https://www.youtube.com/watch?v=B37wzVJvw0U" frameborder="0" scrolling="no" height="100%" width="100%" allowfullscreen="true"></iframe>
+  <iframe src="https://www.youtube.com/embed/B37wzVJvw0U" frameborder="0" scrolling="no" height="100%" width="100%" allowfullscreen="true"></iframe>
 </div>
 
 <!--
