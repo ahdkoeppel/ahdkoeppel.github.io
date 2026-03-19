@@ -22,6 +22,12 @@ redirect_from:
   <iframe src="https://www.youtube.com/embed/UfPqHjCAh9g" frameborder="0" scrolling="no" height="100%" width="100%" allowfullscreen="true"></iframe>
 </div>
 
+<h2 style="text-align: justify;color:Black;">The Earth to Sky Speaking of Science Series 2026</h2>
+<div>
+  <iframe src="https://www.youtube.com/watch?v=B37wzVJvw0U" frameborder="0" scrolling="no" height="100%" width="100%" allowfullscreen="true"></iframe>
+</div>
+https://www.youtube.com/watch?v=B37wzVJvw0U
+
 <!--
 <h2 style="text-align: justify;color:Black;">Recording of PhD Thesis Defense public portion - 2023</h2>
 <div>
