@@ -70,7 +70,9 @@ redirect_from:
   2. [Koeppel, A.H.D., Edgar, L., (2019). Recognizing Stratigraphic Diversity through 1:10,000 scale Geologic mapping of Northwest Aeolis Mons, Mars. Abstract 7015 of the Annual Meeting of Planetary Geologic Mappers, Flagstaff, AZ.](https://www.hou.usra.edu/meetings/pgm2019/pdf/7015.pdf)
   1. Koeppel, A., Black, B. and Marchi, S., (2017). Differentiation in Impact Melt Sheets as a Mechanism to Produce Evolved Magmas on Mars. Abstract P51A-2579 of the 2017 AGU Fall Meeting, New Orleans, LA.
 
+<!-- 
 [Recording of PhD Thesis Defense public portion](https://nau.zoom.us/rec/share/9o-63HetKPQCaShhpYKqFksMAl0_bPlT4Erf8wFq45iiXDsbnixg7gUVCqoL4Bbp.zmquaOm9OFj8msJU)
+-->
   
 ### Teaching
   * 2024, **Instructor**, Advanced Remote Sensing, Dartmouth College
