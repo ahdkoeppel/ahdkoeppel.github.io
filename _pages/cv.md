@@ -43,13 +43,15 @@ redirect_from:
   1. [Fesen, R.A.; Neustadt, J., Black, C., and Koeppel, A. (2015). Discovery of an Apparent High Latitude Galactic Supernova Remnant. The Astrophysical Journal, 812(37)](https://iopscience.iop.org/article/10.1088/0004-637X/812/1/37/meta)
 
 ### Non-Technical Publications
-  8. Koeppel, A. (2026, Jul. 15). What happens now that comments have been submitted on the devastating OMB rules? The Planetary Society
-  7. Koeppel, A. (2026, Jun. 4). When science answers to politics: A proposed rule could reshape how the United States funds space and science research. The Planetary Society
-  6. Koeppel, A. (2026, Apr. 3). What is the skinny budget and what does it mean for NASA? The Planetary Society
-  5. Koeppel, A. (2025, Dec. 9). Lower cost space missions like NASA’s ESCAPADE are starting to deliver exciting science – but at a price in risk and trade‑offs. The Conversation
-  4. Koeppel, A. (2025, Nov. 19). Revisiting NASA funding as the government reopens. The Planetary Society
-  3. Koeppel, A. (2025, Oct. 31). ESCAPADE launch: What to expect. The Planetary Society
-  2. Koeppel, A. (2025, Sept. 17). Mars rovers serve as scientists’ eyes and ears from millions of miles away – here are the tools Perseverance used to spot a potential sign of ancient life. The Conversation
+  10. Koeppel, A., L. Roelofs, S. Vrech, A. M. Rutledge, and M. Turbet (2026), What we could lose trying to make Mars habitable, Eos, 107, https://doi.org/10.1029/2026EO260321. Published on 14 October 2026.
+  9. Koeppel, A. (2026, Sept. 7). Meet the next generation of Mars exploration. The Planetary Report.
+  8. Koeppel, A. (2026, Jul. 15). What happens now that comments have been submitted on the devastating OMB rules? The Planetary Society.
+  7. Koeppel, A. (2026, Jun. 4). When science answers to politics: A proposed rule could reshape how the United States funds space and science research. The Planetary Society.
+  6. Koeppel, A. (2026, Apr. 3). What is the skinny budget and what does it mean for NASA? The Planetary Society.
+  5. Koeppel, A. (2025, Dec. 9). Lower cost space missions like NASA’s ESCAPADE are starting to deliver exciting science – but at a price in risk and trade‑offs. The Conversation.
+  4. Koeppel, A. (2025, Nov. 19). Revisiting NASA funding as the government reopens. The Planetary Society.
+  3. Koeppel, A. (2025, Oct. 31). ESCAPADE launch: What to expect. The Planetary Society.
+  2. Koeppel, A. (2025, Sept. 17). Mars rovers serve as scientists’ eyes and ears from millions of miles away – here are the tools Perseverance used to spot a potential sign of ancient life. The Conversation.
   1. Koeppel, A. (2025, May 22). A decade after the release of “the martian” and a decade out from the world it envisions, a planetary scientist checks in on real‑life mars exploration. The Conversation.
   
 ### Presentations
